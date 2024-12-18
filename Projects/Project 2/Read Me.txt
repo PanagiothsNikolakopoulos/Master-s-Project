@@ -1,0 +1,14 @@
+The final assignment you will work on is going to be a bit different. You will combine a lot of the skills and knowledge you have built on throughout the modules and participate in a Kaggle competition.
+
+You can select one of the following competitions: 
+
+If you are up for a time series challenge, have a look a 'Forecasting-Uncertainty': https://www.kaggle.com/c/m5-forecasting-uncertainty/overview (Links to an external site.)Links to an external site.
+Predict traffic congestion in 4 major US cities: https://www.kaggle.com/c/bigquery-geotab-intersection-congestion/data (Links to an external site.)Links to an external site.
+ 
+Pick a competition and follow the instructions to make sure you understand the problem, data and submission requirements. Some competitions are closed but you can still submit and see how you are placed on the leader board. 
+
+
+As you are building a predictive model or models, make sure you follow some of the best practices we have learned so far:
+1)    Clean and then visually explore your data before you start the analysis
+2)    Don’t just make assumptions, whenever possible, use statistical analysis to test hypotheses and find relationships in the data
+3)    Build and compare predictive models in terms of their performance. Note that the one is on time series, and the second- a standard supervised learning problem. Follow the best practices in each of them. 

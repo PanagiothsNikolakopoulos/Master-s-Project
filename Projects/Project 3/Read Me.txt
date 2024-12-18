@@ -1,0 +1,18 @@
+The final assignment you will work on is going to be similar to the previous module assignment. You will combine a lot of the skills and knowledge you have built on throughout the modules and participate in a Kaggle competition.
+
+You can select one of the following competitions: 
+
+Real or not? NLP with disaster tweets: https://www.kaggle.com/c/nlp-getting-started/overview Links to an external site.
+Help Intel classify images fro the natural world: https://www.kaggle.com/datasets/puneet6060/intel-image-classificationLinks to an external site.
+Pick a competition and follow the instructions to make sure you understand the problem, data and submission requirements. Some competitions are closed but you can still submit and see how you are placed on the leader board. 
+
+As you are building a predictive model or models, make sure you follow some of the best practices we have learned so far:
+
+Give an explanation of the dataset and what it contains. In DS it's the little things in the untrained eyes that makes the most impacts. Explanations and plots not explained or not explained properly or serving not purpose will be penalised. 
+Make sure compare a few models. No one gets it the right way from the first try.
+Focus on good coding practices as long as a clear workflow. Being able to explain your workflow clearly is a big skill evaluated by employers.
+Preserve some space for explainability. No one. like a black-box algorithm these days. 
+Make sure to upload your project on GitHub, GH its a great way to show employers you have experience in building projects. A few things to remember:
+Make a nice and concrete README.md file
+Have a clear commit history
+The submitted notebook should be written as it should be presented to some very important technical person in your company. It should be polished accordingly and omit unnecessary things.
